@@ -3,6 +3,14 @@ body {
 	background-size: cover;
 }
 
+h1 { 
+	font-family: 'Arvo',sans-serif;
+	color: rgba(255,255,255,0.9);
+	font-size: 70px;
+	text-align: center;
+	margin: 200px auto -100px auto;
+ }
+
 p {
 	font-size: 16px;
 }
